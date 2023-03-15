@@ -10,4 +10,4 @@ squre_sum = (N*(N+1)/2)**2
 Ans = squre_sum - sum_squres
 
 print(int(Ans))
-# 25164150
+# Ans : 25164150
